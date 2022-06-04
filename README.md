@@ -31,6 +31,10 @@ You must have MySQL installed on the computer on which you plan to run this appl
 
 Once the database has been seeded with the data, you can then use an HTTP request generator such as Postman or Insomnia to make HTTP requests to interact with the database. This code uses the npm package sequelize to perform CRUD operations on the database. This application includes HTTP routes for GET, POST, DELETE, and PUT operations.
 
+Github: [Jenya](https://github.com/jenya10016) <br>
+
+Heroku : [Link to deployed Heroku app](https://git.heroku.com/ecommerce-jenya.git) <br>
+
 ## Contributors
 
 University of Denver
